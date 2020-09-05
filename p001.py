@@ -6,3 +6,5 @@ while True:
         break
     elif cnt > 0:
         print("*"*cnt)
+
+print("hio")
